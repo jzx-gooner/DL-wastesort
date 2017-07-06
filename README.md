@@ -1,7 +1,10 @@
 # 基于深度学习的垃圾分类
 
 我们将已经训练好了的Inception v3模型进行了再训练，完成了四大类，100多种小类的垃圾分类。
+
 作者：jzx，wlx，yjh
+
+演示视频链接：www.haimeishangchuan.com
 
 参考:[Tensorflow](https://www.tensorflow.org/)
 [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
