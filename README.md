@@ -25,7 +25,7 @@
 
 2,通过修改Inception v3模型的最后一层实现了分类  retrain.py wastesort.py
 
-3,通过opencv实现了物体的检测和拍照
+3,通过opencv实现了物体的检测和拍照 waste_detector.py
 
 4,通过调用串口实现了与stm32的通讯 serial_send.py
 
