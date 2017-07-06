@@ -7,15 +7,15 @@
 
 实现途径：
 
-1,通过网络爬虫创建了自己的数据集
+1,通过网络爬虫创建了自己的数据集 waste-set-googlescraper.py
 
-2,通过修改最后一层实现了分类
+2,通过修改最后一层实现了分类  retrain.py wastesort.py
 
 3,通过opencv实现了物体的检测和拍照
 
-4,通过调用串口实现了与stm32的通讯
+4,通过调用串口实现了与stm32的通讯 serial_send.py
 
-5,通过js实现了网页端上位机的编写
+5,通过js实现了网页端上位机的编写 
 
 综上，实现了自主拍照，自主识别，自主分类的垃圾回收装置。
 
@@ -45,7 +45,7 @@ $ bash train.sh
 运行
 
 ```javascript
-python findGender.py
+python3 wastesort.py
 ```
 
 预测结果会依次输出
