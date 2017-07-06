@@ -1,6 +1,7 @@
 # 基于深度学习的垃圾分类
 
 我们将已经训练好了的Inception v3模型进行了再训练，完成了四大类，100多种小类的垃圾分类。
+作者：jzx，wlx，yjh
 
 参考:[Tensorflow](https://www.tensorflow.org/)
 [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
@@ -65,4 +66,5 @@ stm32控制步进电机+舵机实现垃圾的分类
 
 ## 鸣谢
 感谢早起的晨，晚睡的夜！
+
 感谢技术分享，技术繁荣的美好互联网年代！
