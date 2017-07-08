@@ -10,7 +10,8 @@
 
 基于以上，提出了基于深度学习的智能垃圾分类系统。从技术上旨在通过深度学习，实现垃圾的高精确度分类；在效果上，通过技术的提升提高城市居民的环境保护与节约资源的意识，促进城市居民转变现有的投放垃圾的行为方式；从长远上来看，抛砖引玉，为我国建立健全城市垃圾分类处理制度提供一些思路。
 
-具体实现方式是将已经训练好了的Inception v3模型进行了再训练，完成了四大类，100多种小类的垃圾分类，通过opencv捕捉信息，通过蓝牙与stm32通讯完成了硬件部分的动作，通过js完成了上位机的编写
+具体实现方式是将已经训练好了的Inception v3模型进行了再训练，完成了四大类，100多种小类的垃圾分类，通过opencv捕捉信息，通过蓝牙与stm32通讯完成了硬件部分的动作，通过js完成了上位机的编写。
+
 
 作者：jzx，wlx，yjh
 
@@ -20,6 +21,12 @@
 
 参考:[Tensorflow](https://www.tensorflow.org/)
 [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
+
+实验图片：
+
+https://github.com/lab135-ncepu/DL-wastesort/blob/master/pictures/BANANA.png
+
+
 
 实现途径：
 
