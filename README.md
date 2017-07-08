@@ -13,6 +13,7 @@
 具体实现方式是将已经训练好了的Inception v3模型进行了再训练，完成了四大类，100多种小类的垃圾分类，通过opencv捕捉信息，通过蓝牙与stm32通讯完成了硬件部分的动作，通过js完成了上位机的编写
 
 作者：jzx，wlx，yjh
+
 单位：NCEPU
 
 演示视频链接：www.haimeishangchuan.com
@@ -42,6 +43,7 @@
 
 1. Python
 2. Tensorflow
+3. Opencv
 <br/>
 
 ## 流程介绍
