@@ -24,7 +24,7 @@
 
 实验图片：
 
-![image](http://github.com/lab135-ncepu/DL-wastesort/pictures/1.jpg)
+![image](https://github.com/lab135-ncepu/DL-wastesort/blob/master/pictures/1.jpg)
 
 
 
