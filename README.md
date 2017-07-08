@@ -16,7 +16,7 @@
 
 单位：NCEPU
 
-演示视频链接：www.haimeishangchuan.com
+演示视频链接：待上传
 
 参考:[Tensorflow](https://www.tensorflow.org/)
 [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
