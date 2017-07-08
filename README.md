@@ -84,8 +84,8 @@ python3 wastesort.py
 stm32控制步进电机+舵机实现垃圾的分类
 ## Results
 
-![结果图片](https://github.com/lab135-ncepu/DL-wastesort/blob/master/pictures/BANANA.jpg)
-![结果图片](https://github.com/lab135-ncepu/DL-wastesort/blob/master/pictures/BOTTLE.jpg)
+![结果图片](https://github.com/lab135-ncepu/DL-wastesort/blob/master/pictures/BANANA.png)
+![结果图片](https://github.com/lab135-ncepu/DL-wastesort/blob/master/pictures/BOTTLE.png)
 
 
 
