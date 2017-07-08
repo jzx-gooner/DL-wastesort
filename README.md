@@ -24,7 +24,7 @@
 
 实验图片：
 
-https://github.com/lab135-ncepu/DL-wastesort/blob/master/pictures/BANANA.png
+DL-wastesort/pictures/BANANA.png
 
 
 
