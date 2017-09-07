@@ -18,9 +18,13 @@
 单位：NCEPU
 
 演示视频链接：https://www.bilibili.com/video/av12017465/?from=search&seid=1320605891430268553
+
 演示视频链接-人机交互界面：https://www.bilibili.com/video/av14240399/
+
 演示视频链接-手机app移植：https://www.bilibili.com/video/av14240428/
+
 演示视频链接-手机app移植：https://www.bilibili.com/video/av14240428/
+
 演示视频链接-与传统并联机器人结合：https://www.bilibili.com/video/av14240443/
 
 参考:[Tensorflow](https://www.tensorflow.org/)
